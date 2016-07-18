@@ -1,5 +1,8 @@
 # ipfs-vanity
 
+Before looking for a vanity address, you may want to look to how to [attach a
+DNS record to IPNS address](https://github.com/ipfs/examples/tree/master/examples/websites).
+
 **WARNING:** This is experimental software and it is not optimized. Use it at
 your own risk.
 
